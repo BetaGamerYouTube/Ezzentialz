@@ -1,0 +1,2 @@
+# Ezzentialz
+Essential Minecraft Plugin
